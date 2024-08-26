@@ -29,7 +29,7 @@ make
 ```
 2. executar programa com:
 ```bash
-./bin/hOSPital config.txt
+./bin/hOSpital config.txt
 ```
 ---
 ## Limitações
