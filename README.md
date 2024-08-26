@@ -35,7 +35,7 @@ The hOSpital project is divided into these directories:
 ---
 ## Execution
 
-compiling: <br>
+1. compiling: <br>
 
 ```bash
 make clean
