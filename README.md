@@ -13,6 +13,12 @@ a receptionist, the forwarding of pacients into a waiting room and the service g
 register how and when this process is done.
 This aims to get students familiar with the C language and POSIX.
 
+## What we learned
+ - processes and threads
+ - memory managment
+ - logging and alarms
+ - signals
+
 ---
 ## Operations
 The CLi program contains the following operations:<br>
