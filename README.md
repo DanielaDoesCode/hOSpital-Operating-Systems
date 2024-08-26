@@ -7,10 +7,12 @@ Diogo Lopes 60447<br>
 Pedro Silva 59886<br>
 
 ## About
+
 This project aims to simulate the admission and the service of pacients in a hospital, which involves 3 steps: Admission by
 a receptionist, the forwarding of pacients into a waiting room and the service giving by a doctor. There are also logs to 
 register how and when this process is done.
 This aims to get students familiar with the C language and POSIX.
+
 ---
 ## Operations
 The CLi program contains the following operations:<br>
